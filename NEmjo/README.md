@@ -6,3 +6,9 @@ Készítők Taki, Réka, Tomi
 -alapötletek felvétele
 -sablon megtervezése, papír alapú ábrázolása
 -flexbox használata
+
+2024. 10. 11:
+
+-sablon keresése, felhasználása
+-mhm
+-a sablon testreszabása
