@@ -16,4 +16,5 @@ Készítők Taki, Réka, Tomi
 
 2024. 10. 14:
 
-heló
+-képek, ikonok keresése
+-oldal módosítása
