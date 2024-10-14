@@ -12,3 +12,8 @@ Készítők Taki, Réka, Tomi
 -sablon keresése, felhasználása
 -mhm
 -a sablon testreszabása
+
+
+2024. 10. 14:
+
+heló
