@@ -18,3 +18,15 @@ Készítők Taki, Réka, Tomi
 
 -képek, ikonok keresése
 -oldal módosítása
+
+2024. 10. 16:
+
+-ikonok beállítása
+-képek berakása
+-szöveg formázása
+
+2024. 10. 17:
+
+-gombok beállítása
+-külön oldalak letrehozasa
+-újdonságok beírása
