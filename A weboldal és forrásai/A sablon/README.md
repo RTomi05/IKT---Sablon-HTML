@@ -30,3 +30,11 @@ Készítők Taki, Réka, Tomi
 -gombok beállítása
 -külön oldalak letrehozasa
 -újdonságok beírása
+
+2024. 10. 21:
+
+-külön oldalak fojtatása
+-oldal szépítése 
+
+2024. 10. 25:
+-oldal befejezése 
