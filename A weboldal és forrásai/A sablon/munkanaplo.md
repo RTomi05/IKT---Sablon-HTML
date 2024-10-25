@@ -28,13 +28,15 @@ Készítők Taki, Réka, Tomi
 2024. 10. 17:
 
 -gombok beállítása
--külön oldalak letrehozasa
--újdonságok beírása
+-külön oldalak letrehozása
+-újdonságok beimportálása
 
 2024. 10. 21:
 
--külön oldalak fojtatása
--oldal szépítése 
+-külön oldalak folytatása
+-oldal szépítése, debug 
 
 2024. 10. 25:
--oldal befejezése 
+
+-oldal befejezése
+-mhm
