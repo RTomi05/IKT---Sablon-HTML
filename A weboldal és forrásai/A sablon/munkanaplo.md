@@ -28,7 +28,7 @@ Készítők Taki, Réka, Tomi
 2024. 10. 17:
 
 -gombok beállítása
--külön oldalak letrehozása
+-külön oldalak létrehozása
 -újdonságok beimportálása
 
 2024. 10. 21:
