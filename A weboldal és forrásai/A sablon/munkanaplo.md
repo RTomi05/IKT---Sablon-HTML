@@ -40,3 +40,7 @@ Készítők Taki, Réka, Tomi
 
 -oldal befejezése
 -mhm
+
+2024. 10. 29:
+-apró átalakítások
+-oldal befejezése
